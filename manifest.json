@@ -1,0 +1,36 @@
+{
+    "short_name": "S&T Wedding Card",
+    "name": "Sakshi & Tarun Wedding Invite",
+    "theme_color": "#C78665",
+    "background_color": "#fff",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "img/s&t48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "img/s&t96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "img/s&t144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "img/s&t192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "img/s&t512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/wedding-card/?utm_source=launcher"
+  }
